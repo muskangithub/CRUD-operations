@@ -2,8 +2,11 @@
 Created a CRUD application performing Create, Read, Update, Delete operations. Frontend of application created using React.js and backend using Node.js and fetch apis. For Dtatabse used Mongodb
 
 after cloning .....
+
 run command-> npm i
+
 for frontend run command-> npm start
+
 for backend run command-> nodemone app.js
 
 ![Screenshot (103)](https://user-images.githubusercontent.com/104638878/198821778-66b50b2a-ba83-454a-892b-035db1e41ac8.png)
